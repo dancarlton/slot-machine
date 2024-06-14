@@ -34,6 +34,8 @@ This slot machine game involves the following steps:
 - **transpose**: Converts the reels into rows to make it easier to check for winnings.
 - **printRows**: Prints the rows of symbols.
 - **getWinnings**: Calculates the winnings based on the bet and the number of lines.
+- **game**: Manages the overall game flow, including prompting the user to play again or ending the game when the balance is zero.
+
 
 ## Getting Started
 
